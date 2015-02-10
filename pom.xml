@@ -12,13 +12,12 @@
     <name>jaxws-my-examples</name>
 
     <modules>
-    
-
+        <module>qs-helloworld-ws</module>
     </modules>
 
     <!-- This is redundant subprojects contain copy -->
-    
-    
+
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
