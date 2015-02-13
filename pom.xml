@@ -5,14 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.bagab.jaxws</groupId>
-    <artifactId>my-examples</artifactId>
+    <artifactId>jax-ws-playground</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>jaxws-my-examples</name>
+    <name>jax-ws-playground</name>
 
     <modules>
         <module>qs-helloworld-ws</module>
+        <module>deployment-examples</module>
     </modules>
 
     <!-- This is redundant subprojects contain copy -->
