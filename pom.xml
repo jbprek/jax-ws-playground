@@ -12,7 +12,7 @@
     <name>jax-ws-playground</name>
 
     <modules>
-        <module>qs-helloworld-ws</module>
+        <module>quickstart-hello-ws</module>
         <module>deployment-examples</module>
     </modules>
 
