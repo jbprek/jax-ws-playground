@@ -14,6 +14,8 @@
     <modules>
         <module>quickstart-hello-ws</module>
         <module>deployment-examples</module>
+        <module>ee5tut-jaxb-examples</module>
+        <module>ee5tut-jaxb-examples-scratch-to-delete</module>
     </modules>
 
     <!-- This is redundant subprojects contain copy -->
